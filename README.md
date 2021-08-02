@@ -1,4 +1,4 @@
-# [CS-7637] Knowledge-based Artificial Intelligence: RPM-Project
+# [CS-7637] Knowledge-Based Artificial Intelligence: RPM-Project
 
 Designing a knowledge-base AI agent to pass **RPM** (Raven’s Progressive Matrices) tests, details see the Final-Project-Report.
 
