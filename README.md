@@ -1,4 +1,4 @@
-# AI Agent Design for Intelligence Tests: RPM-Project
+# AI Agent Design for IQ Tests: RPM-Project
 
 Designed a knowledge-base AI agent to pass **RPM** (Raven’s Progressive Matrices) tests, the AI agent took around 30 seconds for solving all 192 problems including both 2x2 problems and 3x3 problems, the AI agent ultimately returned 112 out of 192 problems a correct answer in around **60% accuracy**. Details see the Final-Project-Report. 
 
